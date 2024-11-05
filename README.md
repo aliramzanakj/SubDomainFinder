@@ -18,5 +18,8 @@ This is a PyQt5-based desktop application designed to find alive subdomains for 
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/aliramzanakj/SubDomainFinder.git
+   cd SubDomainFinder
+2. **Run Program
+   ```bash
+      python main.py
