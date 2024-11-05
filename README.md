@@ -20,6 +20,6 @@ This is a PyQt5-based desktop application designed to find alive subdomains for 
    ```bash
    git clone https://github.com/aliramzanakj/SubDomainFinder.git
    cd SubDomainFinder
-2. **Run Program
+2. **Run Program:**
    ```bash
       python main.py
